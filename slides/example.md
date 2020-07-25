@@ -1,14 +1,6 @@
-# Markdown Demo
-
-
-
-## External 1.1
-
-Content 1.1
-
-Note: This will only appear in the speaker notes window.
-
-
-## External 1.2
-
-Content 1.2
+## Slide 1
+A paragraph with some text and a [link](http://hakim.se).
+---
+## Slide 2
+---
+## Slide 3
