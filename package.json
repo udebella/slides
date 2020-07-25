@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "reveal": "reveal-md slides/ --static"
+    "reveal": "reveal-md slides/ --static --listing-template custom-listing.html"
   },
   "keywords": [],
   "license": "ISC",
