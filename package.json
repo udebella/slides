@@ -1,0 +1,14 @@
+{
+  "name": "presentations",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "reveal": "reveal-md slides/ --static"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "reveal-md": "^4.1.2",
+    "reveal.js": "^4.0.2"
+  }
+}
