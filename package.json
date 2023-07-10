@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "reveal": "reveal-md slides/ --static --listing-template custom-listing.html"
+    "reveal": "reveal-md slides/ --listing-template custom-listing.html"
   },
   "keywords": [],
   "license": "ISC",
   "dependencies": {
-    "reveal-md": "^3.5.0"
+    "reveal-md": "^5.5.1"
   }
 }

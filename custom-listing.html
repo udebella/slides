@@ -16,6 +16,14 @@
 </head>
 
 <body class="reveal-viewport">
-{{{listing}}}
+<ul>
+    {{#files}}
+    <li>
+        <a href="{{filePath}}" title="{{title}}">
+            {{#title}}{{.}} ({{filePath}}){{/title}}{{^title}}{{filePath}}{{/title}}
+        </a>
+    </li>
+    {{/files}}
+</ul>
 </body>
 </html>
