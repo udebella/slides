@@ -8,6 +8,6 @@
   "keywords": [],
   "license": "ISC",
   "dependencies": {
-    "reveal-md": "^3.5.0"
+    "reveal-md": "^5.5.1"
   }
 }
